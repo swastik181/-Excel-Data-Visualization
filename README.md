@@ -136,16 +136,9 @@ Microsoft Excel
 
 This project contributes to foundational skills in:
 
-Excel → Data Visualization → Data Analysis → Business Analysis → Decision Making
+Excel → Data Visualization → Data Analysis → Decision Making
 
----
- Author
 
-Swastik Mishra
-
-Aspiring Business Analyst | Excel | Power BI | SQL | Python
-
----
 
 
 
